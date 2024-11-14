@@ -13,5 +13,4 @@ func Ninja5() {
 	fmt.Printf("Tipo y: %T\n", y)
 	fmt.Printf("Valor y: %d\n", y)
 	fmt.Println()
-	variable sda
 }
