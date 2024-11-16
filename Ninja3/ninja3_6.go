@@ -12,4 +12,5 @@ func Ninja6() {
 	if idade == 18 {
 		fmt.Println("Adulto agora")
 	}
+	fmt.Println()
 }
